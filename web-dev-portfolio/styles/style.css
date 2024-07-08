@@ -89,8 +89,8 @@ nav li a {
 
 /* Header */
 .header {
-  background-image: url("../fortfolio-resources/images/header_bg.png"),
-    url("../fortfolio-resources/images/another_image.png"); /* Background images */
+  background-image: url("../fortfolio-resources/images/another_image.png"),
+    url("../fortfolio-resources/images/header_bg.png"); /* Background images */
   background-repeat: no-repeat, no-repeat; /* No repeat for background images */
   background-position: top left, bottom right; /* Positioning of background images */
 }
